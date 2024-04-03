@@ -136,6 +136,7 @@ div h3 {
 /* Footer */
 
 footer {
+    min-width: 700px;
     background-color: #101010;
     color: #f8f8f8;
     box-sizing: border-box;
